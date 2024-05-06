@@ -1,0 +1,1 @@
+Aim is to predict every day's temperature using previous dataset of local weather. we can customize this to our own location. Then, we'll clean the data and get it ready for machine learning to build a model to make historical predictions and to improve the model
